@@ -1,0 +1,68 @@
+
+
+
+body{font-family:Verdana, Geneva, Tahoma, sans-serif:
+}
+.batman{
+    margin-left: 670px;
+}
+.header{
+    align-items: center;
+    margin-bottom: 100px;
+    
+}
+.encabezado{
+    background-color: gainsboro;
+    color:#005677;
+    font-size: 30px;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.subtitulo{
+    background-color: gainsboro;
+    color: #005677;
+    text-transform: uppercase;
+}
+.item{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+span{
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+}
+dt{
+    font-weight: bold;
+    font-size: 18px;
+
+}
+dd{
+    text-align: left;
+    font-size: 18px;
+}
+footer{
+    
+    background-color: #005677;
+    text-align: center;
+    color: white;
+    height: 30px;
+    font-size: 24px;
+    
+}
+.logo1{
+    position: absolute;
+    left: 825px;
+    height: 20px;
+    width: 20px;
+    top: 830px;
+}
+.logo2{
+    position: absolute;
+    left: 855px;
+    height: 20px;
+    width: 20px;
+    top: 830px;
+}
